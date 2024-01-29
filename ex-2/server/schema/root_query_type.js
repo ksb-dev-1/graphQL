@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+console.log("Trying to import models");
 import SongType from "./song_type.js";
 import LyricType from "./lyric_type.js";
 import Lyric from "../models/lyric.js";
